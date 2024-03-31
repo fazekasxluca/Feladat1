@@ -9,6 +9,7 @@ function parosKivalogat(szamok) {
     }
     return parosSZ;
 }
+//asd
 var szamokTomb = [3, 2, 5, 7, 8];
 console.log(parosKivalogat(szamokTomb));
 var d1 = { nev: "kiss lajos", kor: 23, aktiv: false };
